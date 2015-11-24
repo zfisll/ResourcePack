@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--定义ClipDrawable资源，从其他图片资源上截取一个片段（从哪里开始截取，截取方式）-->
+<clip xmlns:android="http://schemas.android.com/apk/res/android"
+    android:drawable="@drawable/shuangta"
+    android:gravity="center"
+    android:clipOrientation="horizontal">
+
+</clip>

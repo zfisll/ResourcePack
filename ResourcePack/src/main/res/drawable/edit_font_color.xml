@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--定义StateListDrawable资源，它显示的Drawable对象会根据目标组件的状态的改变而自动切换-->
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_focused="true" android:color="@color/pink"/>
+    <item android:state_focused="false" android:color="@color/black"/>
+</selector>

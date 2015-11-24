@@ -1,0 +1,2 @@
+include ':app', ':Blast', ':client', ':alarmtest', ':ResourcePack'
+include ':MusicBox'

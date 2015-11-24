@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="str_array">
+        <item>@string/red</item>
+        <item>@string/green</item>
+        <item>@string/blue</item>
+        <item>@string/light_blue</item>
+        <item>@string/yello</item>
+        <item>@string/pink</item>
+        <item>@string/gray</item>
+        <item>@string/purple</item>
+        <item>@string/orange</item>
+    </string-array>
+    <array name="color_array">
+        <item>@color/red</item>
+        <item>@color/green</item>
+        <item>@color/blue</item>
+        <item>@color/light_blue</item>
+        <item>@color/yello</item>
+        <item>@color/pink</item>
+        <item>@color/gray</item>
+        <item>@color/purple</item>
+        <item>@color/orange</item>
+    </array>
+    <string-array name="contact">
+        <item>孙罗兰</item>
+        <item>左峰</item>
+    </string-array>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Attribute资源,自定义属性，然后在自定义View中使用这些属性，使用的时候需要引用这些属性的命名空间-->
+<!--未在本程序中使用-->
+<resources>
+    <!--定义一个属性-->
+    <attr name="duration"></attr>
+    <!--定义一个styleable对象组合多个属性-->
+    <declare-styleable name="AlphaImageView">
+        <attr name="duration"/>
+    </declare-styleable>
+</resources>

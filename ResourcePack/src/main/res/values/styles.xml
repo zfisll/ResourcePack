@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--样式资源，自定义样式，可以继承-->
+<resources>
+    <style name="style1">
+        <item name="android:textSize">18sp</item>
+        <item name="android:textColor">#ff0000</item>
+    </style>
+    <style name="style2" parent="style1">
+        <item name="android:background">#123430</item>
+        <item name="android:padding">8dp</item>
+    </style>
+</resources>

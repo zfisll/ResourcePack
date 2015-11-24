@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--定义尺寸资源-->
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <dimen name="cell_width">60dp</dimen>
+    <dimen name="cell_height">66dp</dimen>
+    <dimen name="spacing">8dp</dimen>
+    <dimen name="title_font_size">18sp</dimen>
+    <dimen name="content_font_size">20sp</dimen>
+</resources>

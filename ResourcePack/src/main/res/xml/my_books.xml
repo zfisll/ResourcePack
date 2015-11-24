@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--定义原生的xml文件，可以用XmlResourceParser来解析xml文件-->
+<!--未在本程序中使用-->
+<books>
+    <book price="20" publishTime="2015.1.1">Java疯狂讲义</book>
+    <book price="22" publishTime="2015.1.2">Android疯狂讲义</book>
+    <book price="24" publishTime="2015.1.3">IOS疯狂讲义</book>
+</books>
