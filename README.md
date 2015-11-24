@@ -1,0 +1,5 @@
+# ResourcePack
+此项目介绍了android中的各种资源使用，包括简单的values：string、color、dimen、array、style、attr
+还有各种drawable：StateListDrawable、ShapeDrawable、LayerDrawable、ClipDrawable
+还有动画资源：包括逐帧动画和补间动画
+还有原生资源：raw目录下的会在清单列表R中生成id，assets目录下的资源不会
